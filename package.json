@@ -3,7 +3,8 @@
   "author": "John Waweru",
   "description": "This is a Backend Project",
   "keywords": [
-    "freeCodeCamp"
+    "freecodecamp",
+    "John Waweru"
   ],
   "dependencies": {
     "express": "^4.14.0"
