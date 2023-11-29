@@ -2,6 +2,9 @@
   "name": "fcc-learn-npm-package-json",
   "author": "John Waweru",
   "description": "This is a Backend Project",
+  "keywords": [
+    "freeCodeCamp"
+  ],
   "dependencies": {
     "express": "^4.14.0"
   },
